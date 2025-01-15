@@ -1,0 +1,6 @@
+y = int(2.8) 
+x = float(1)    
+z = str(2)   
+print(type(x)) 
+print(type(y)) 
+print(type(z)) 
